@@ -1,11 +1,11 @@
 {
   "name": "gothinit-puppeteer",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node main.js",
-    "dev": "nodemon main.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
